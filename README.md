@@ -1,3 +1,4 @@
+Forked to build - DO NOT USE THIS REPOSITORY
 <!-- modrinth_exclude.start -->
 WorldEditCUI
 ------------
